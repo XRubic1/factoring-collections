@@ -102,3 +102,6 @@ This project is private and proprietary.
 ## Support
 
 For support and questions, please contact the development team.
+
+---
+*Last updated: $(date)*
