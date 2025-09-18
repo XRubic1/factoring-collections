@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/factoring-collections/static/css/main.26958ceb.css",
+    "main.js": "/factoring-collections/static/js/main.0dc0d567.js",
+    "index.html": "/factoring-collections/index.html",
+    "main.26958ceb.css.map": "/factoring-collections/static/css/main.26958ceb.css.map",
+    "main.0dc0d567.js.map": "/factoring-collections/static/js/main.0dc0d567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26958ceb.css",
+    "static/js/main.0dc0d567.js"
+  ]
+}
